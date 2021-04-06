@@ -7,4 +7,5 @@
 <img src="https://img.shields.io/github/followers/mauriciopgomes?style=social">
 <img src="https://img.shields.io/twitter/follow/mauriciogomesrj?style=social">
 
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
