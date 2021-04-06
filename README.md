@@ -14,6 +14,10 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-
+![DockerFile](https://img.shields.io/badge/-DockerFile-black?style=flat-square&logo=dockerfile)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=gcp)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=azure)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
