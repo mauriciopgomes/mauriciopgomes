@@ -40,4 +40,4 @@
 ![Tsuru](https://img.shields.io/badge/-Tsuru-black?style=flat-square&logo=tsuru)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![VueJS](https://img.shields.io/badge/-VueJS-black?style=flat-square&logo=vuejs)
+![VueJs](https://img.shields.io/badge/-VueJs-black?style=flat-square&logo=vuejs)
