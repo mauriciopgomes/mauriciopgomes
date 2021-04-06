@@ -11,4 +11,9 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![Shell](https://img.shields.io/badge/-Shell-black?style=flat-square&logo=shell)
+![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat-square&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
