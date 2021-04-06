@@ -5,4 +5,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopgomes)
 
 <img src="https://img.shields.io/github/followers/mauriciopgomes?style=social">
+<img src="https://img.shields.io/twitter/follow/mauriciogomesrj?style=social">
 
+![GitHub](https://img.shields.io/badge/-GitHub?style=flat-square&logo=github)
