@@ -3,3 +3,5 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriciopgomes&show_icons=true)](https://github.com/mauriciopgomes)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopgomes)
+
+https://img.shields.io/github/followers/mauriciopgomes?style=social
